@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <title>Salom, dunyo!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Assalomu alaykum!</h1>
+  <p>Bu mening birinchi saytim 🚀</p>
+  <p>GitHub Pages orqali internetda ishlayapti.</p>
+</body>
+</html>
